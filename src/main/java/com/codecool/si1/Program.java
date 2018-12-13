@@ -1,4 +1,4 @@
-package com.codecool.dynamicArrayDojo;
+package com.codecool.si1;
 
 public class Program {
 

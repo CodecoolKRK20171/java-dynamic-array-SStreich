@@ -1,4 +1,4 @@
-package com.codecool.dynamicArrayDojo;
+package com.codecool.si1;
 
 import org.junit.jupiter.api.Test;
 

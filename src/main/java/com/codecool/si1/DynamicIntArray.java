@@ -1,4 +1,4 @@
-package com.codecool.dynamicArrayDojo;
+package com.codecool.si1;
 
 // put your code here!
 public class DynamicIntArray {
