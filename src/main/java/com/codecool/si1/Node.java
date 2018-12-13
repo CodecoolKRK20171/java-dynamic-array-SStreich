@@ -1,10 +1,10 @@
 package com.codecool.si1;
 
-public class Node<E> {
+ class Node<E> {
     private Node<E> nextNode;
     private E data;
 
-     Node(E data) {
+    Node(E data) {
         this.data = data;
     }
 
@@ -27,5 +27,4 @@ public class Node<E> {
      E getData() {
     return this.data;
     }
-
 }

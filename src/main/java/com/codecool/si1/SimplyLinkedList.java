@@ -12,13 +12,6 @@ public class SimplyLinkedList<E> {
         this.length = 0;
     }
 
-    public SimplyLinkedList(E data) {
-        this.length = 1;
-        Node<E> node = new Node<>(data);
-        this.head = node;
-        this.last = node;
-    }
-
      void add(E data) {
         Node<E> node = new Node<>(data);
         addNode(node);
